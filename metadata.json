@@ -1,0 +1,5 @@
+{
+  "name": "ATC Sector Traffic Dashboard",
+  "description": "A high-density dashboard showing 24-hour traffic demand across 30 ACC, APP, and TWR sectors.",
+  "requestFramePermissions": []
+}
